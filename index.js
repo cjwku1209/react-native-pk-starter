@@ -1,4 +1,7 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
 
-AppRegistry.registerComponent('rnstarter', () => App);
+import { NavigationStack } from "./src/screen/navigator";
+
+AppRegistry.registerComponent('rnstarter', () => {
+	return NavigationStack;
+});
