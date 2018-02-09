@@ -12,7 +12,7 @@ A basic react-native app template for better project kickstart.
     |-- .git    # git files
     |-- android   # android
     |-- ios    # ios
-    |-- App.js    # app entry
+    |-- index.js    # app entry
 
 ### Contact
 
